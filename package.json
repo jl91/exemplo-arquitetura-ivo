@@ -1,0 +1,16 @@
+{
+  "name": "proposta1",
+  "version": "1.0.0",
+  "description": "Proposta de arquitetura 1",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "jlfernandes91@hotmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "9.0.0",
+    "typescript": "4.0.5"
+  }
+}
